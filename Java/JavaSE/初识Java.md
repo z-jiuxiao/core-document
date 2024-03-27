@@ -65,6 +65,8 @@ JavaME：Java微型版，在JavaSE之上取精髓，后续改为J2ME
   - 清理无用资源
   - 将字节码转换成所在系统识别的机器码，并与底层硬件交互
 
+> 查看class字节码文件：javap -c [文件名]
+
 ## 安装Java
 
 ### JDK、JRE、JVM
